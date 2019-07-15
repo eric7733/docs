@@ -74,7 +74,7 @@
 	"title": "Qitmeer Atomic-swap",
 	"tags": [],
 	"description": "",
-	"content": " Qitmeer Cross-chain Atomic-Swapping Through this tutorial, we demonstrate the QITMEER/BTC atomic-swapp by using qitmeer-cli and qx tool under the qitmeer TestNet.\nIntroduction What\u0026rsquo;s Atomic-swapping \u0026hellip;\nPrerequisites Step By Step QIMEER/BTC Atomicswap Demo Step 1 Step 2 Discovery raw transactions "
+	"content": " Qitmeer Cross-chain Atomic-Swapping Through this tutorial, we demonstrate the QITMEER/BTC atomic-swapp by using qitmeer-cli and qx tool under the qitmeer TestNet.\nIntroduction What\u0026rsquo;s Atomic-swapping \u0026hellip;\nPrerequisites  golang qitmeer-cli qx tool  Step By Step QIMEER/BTC Atomicswap Demo Prepare Private Key \u0026amp; Address Create Secret Key \u0026amp; Secret Key Hash Create Qitmeer HTLC (Hash Time-Lock Contract) Broadcasting transaction Verify Create BTC HTLC Broadcasting transaction Unlock BTC/Qitmeer HTLC User get BTC/Qitmeer "
 },
 {
 	"uri": "https://halalchain.github.io/docs/en/reference/qxtools/encode_decode/qxbase58check/",
